@@ -4,7 +4,7 @@
 
 <h3>Other pages ...</h3>
 <ul>
-  <li><a href="https://wellspringchurchnc.github.io/prod-team">Production and Tech
+  <li><a href="https://wellspringchurchnc.github.io/prod-team"</a>Production and Tech
   <li> TBD
     
 </ul>
